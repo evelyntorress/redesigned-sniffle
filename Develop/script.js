@@ -1,4 +1,4 @@
-//  current day and time 
+//  current day and time using moment.js
 
 var today = moment();
 $("#currentDay").text(today.format("MMM Do, YYYY"));
@@ -9,7 +9,3 @@ $("#time-display").text(time);
 
 
 
-// import moment from 'moment';
-// var today = moment();
-
-// console.log(today)

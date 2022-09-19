@@ -14,7 +14,7 @@ What I was able to accomplish:
 
 ## Link to the web-site
 
-https://github.com/evelyntorress/redesigned-sniffle.git
+https://evelyntorress.github.io/redesigned-sniffle/
 
 ## Screenshoot of the web-site
 
